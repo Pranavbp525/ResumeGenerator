@@ -1,0 +1,119 @@
+personal_information:
+  name: John
+  surname: Doe
+  date_of_birth: "15/05/1995"
+  country: Canada
+  city: Toronto
+  address: 123 Maple Street, Downtown, Toronto, ON, M1A 1A1
+  phone_prefix: "+1"
+  phone: "4161234567"
+  email: john.doe@example.com
+  github: https://github.com/johndoe123
+  linkedin: https://www.linkedin.com/in/johndoe123
+
+education_details:
+  - degree: Masters
+    university: University of Toronto
+    gpa: "3.8/4.00"
+    graduation_year: "2023"
+    field_of_study: Computer Science
+    location: Toronto, ON
+    courses:
+      - Advanced Algorithms
+      - Machine Learning
+      - Distributed Systems
+      - Natural Language Processing
+      - Cloud Computing
+  - degree: Bachelors
+    university: University of British Columbia
+    gpa: "8.5/10.00"
+    graduation_year: "2020"
+    field_of_study: Software Engineering
+    location: Vancouver, BC
+    courses:
+      - Data Structures
+      - Operating Systems
+      - Database Systems
+      - Web Development
+      - Software Design
+
+experience_details:
+  - position: Software Engineer
+    company: TechCorp
+    employment_period: "06/2020 - Present"
+    location: Toronto, ON
+    key_responsibilities:
+      - Developed and maintained scalable web applications using React and Node.js.
+      - Implemented CI/CD pipelines using Jenkins and Docker.
+      - Collaborated with cross-functional teams to deliver high-quality software solutions.
+    skills_acquired:
+      - React
+      - Node.js
+      - Docker
+      - Jenkins
+      - AWS
+  - position: Software Development Intern
+    company: Innovate Inc.
+    employment_period: "05/2019 - 08/2019"
+    location: Vancouver, BC
+    key_responsibilities:
+      - Assisted in the development of a mobile application using Flutter.
+      - Conducted code reviews and wrote unit tests.
+      - Worked on bug fixes and performance improvements.
+    skills_acquired:
+      - Flutter
+      - Dart
+      - Git
+      - Unit Testing
+
+projects:
+  - name: E-Commerce Platform
+    description: 
+      - Developed a full-stack e-commerce platform using React, Node.js, and MongoDB.
+      - Implemented user authentication, product search, and payment integration.
+  - name: Chat Application
+    description: 
+      - Built a real-time chat application using Socket.io and Express.js.
+      - Designed a responsive UI using Bootstrap.
+  - name: Task Manager
+    description: 
+      - Created a task management application with React and Firebase.
+      - Added features like task categorization and reminders.
+
+achievements:
+  - name: Best Hackathon Project
+    description: Won first place in a local hackathon for developing a health tracking app.
+  - name: Dean's List
+    description: Achieved Dean's List for academic excellence in multiple semesters.
+
+certifications:
+  - AWS Certified Solutions Architect
+  - Google Cloud Professional Data Engineer
+  - Microsoft Certified: Azure Developer Associate
+
+skills:
+  programing_languages:
+    - Java 
+    - Python 
+    - JavaScript
+    - C#
+    - Go
+  databases:
+    - MongoDB
+    - MySQL
+    - PostgreSQL
+    - Firebase
+  frameworks:
+    - React
+    - Node.js
+    - Flask
+    - Django
+  tools:
+    - Git
+    - Docker
+    - Jenkins
+    - Kubernetes
+  cloud:
+    - AWS
+    - Google Cloud
+    - Azure

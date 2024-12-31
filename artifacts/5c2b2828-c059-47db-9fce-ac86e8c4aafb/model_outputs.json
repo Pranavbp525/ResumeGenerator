@@ -1,0 +1,128 @@
+{
+    "education": {
+        "education": [
+            {
+                "university": "University of Toronto",
+                "duration": "2023",
+                "degree": "Masterss in Computer Science",
+                "location": "",
+                "gpa": "3.8/4.00",
+                "relevant_coursework": [
+                    "Advanced Algorithms",
+                    "Machine Learning",
+                    "Distributed Systems",
+                    "Natural Language Processing",
+                    "Cloud Computing"
+                ]
+            },
+            {
+                "university": "University of British Columbia",
+                "duration": "2020",
+                "degree": "Bachelorss in Software Engineering",
+                "location": "",
+                "gpa": "8.5/10.00",
+                "relevant_coursework": [
+                    "Data Structures",
+                    "Operating Systems",
+                    "Database Systems",
+                    "Software Design"
+                ]
+            }
+        ]
+    },
+    "experience": {
+        "experiences": [
+            {
+                "company": "TechCorp",
+                "duration": "06/2020 - Present",
+                "role": "Software Engineer",
+                "location": "Toronto, ON",
+                "tools": [
+                    "Node.js",
+                    "Docker",
+                    "Jenkins",
+                    "AWS"
+                ],
+                "responsibilities": [
+                    "Developed and maintained scalable web applications using React and Node.js.",
+                    "Implemented CI/CD pipelines using Jenkins and Docker.",
+                    "Collaborated with cross-functional teams to deliver high-quality software solutions."
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "projects": [
+            {
+                "title": "E-Commerce Platform",
+                "skills": [
+                    "React",
+                    "Node.js",
+                    "MongoDB",
+                    "Full-Stack Development",
+                    "User Authentication"
+                ],
+                "descriptions": [
+                    "Developed a full-stack e-commerce platform using React, Node.js, and MongoDB.",
+                    "Implemented user authentication, product search, and payment integration."
+                ]
+            },
+            {
+                "title": "Chat Application",
+                "skills": [
+                    "Socket.io",
+                    "Express.js",
+                    "Real-time Communication",
+                    "Responsive Design",
+                    "Bootstrap"
+                ],
+                "descriptions": [
+                    "Built a real-time chat application using Socket.io and Express.js.",
+                    "Designed a responsive UI using Bootstrap."
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "category": "Programming Languages",
+                "items": [
+                    "Java",
+                    "Python",
+                    "JavaScript"
+                ]
+            },
+            {
+                "category": "Databases",
+                "items": [
+                    "MongoDB",
+                    "MySQL"
+                ]
+            },
+            {
+                "category": "Frameworks",
+                "items": [
+                    "Django",
+                    "Flask"
+                ]
+            },
+            {
+                "category": "Tools",
+                "items": [
+                    "Kubernetes",
+                    "Docker",
+                    "Git"
+                ]
+            },
+            {
+                "category": "Cloud",
+                "items": [
+                    "Azure",
+                    "Google Cloud",
+                    "AWS"
+                ]
+            }
+        ]
+    }
+}
